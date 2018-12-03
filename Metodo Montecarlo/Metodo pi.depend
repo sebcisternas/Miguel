@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1527513808 source:c:\users\sebci\desktop\lab2.simulacion de sistemas_ sebastian cisternas\metodo pi\metodo pi\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1527513884 source:c:\users\sebci\desktop\lab2.simulacion de sistemas_ sebastian cisternas\metodo montecarlo\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+

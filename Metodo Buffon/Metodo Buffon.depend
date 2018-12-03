@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1527518100 source:c:\users\sebci\desktop\lab2.simulacion de sistemas_ sebastian cisternas\metodo buffon\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<cmath>
+	<ctime>
+
